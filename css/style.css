@@ -9,7 +9,7 @@ body {
     align-items: center;
     text-align: center;
     letter-spacing: -0.5px;
-    padding-top: -8%;
+    margin-top: 10%;
 }
 .hidden {
     display: none;
@@ -28,7 +28,6 @@ h1 {
     color: black;
     font-size: 68px;
     font-weight: 700;
-    
 }
 h2 {
     font-size: 70px;
